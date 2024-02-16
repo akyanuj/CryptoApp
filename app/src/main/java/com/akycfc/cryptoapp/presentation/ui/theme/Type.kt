@@ -1,4 +1,4 @@
-package com.akycfc.cryptoapp.ui.theme
+package com.akycfc.cryptoapp.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

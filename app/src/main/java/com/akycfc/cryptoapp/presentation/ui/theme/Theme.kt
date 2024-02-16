@@ -1,4 +1,4 @@
-package com.akycfc.cryptoapp.ui.theme
+package com.akycfc.cryptoapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
